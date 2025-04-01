@@ -52,7 +52,7 @@ How It Works
 * The software can send automated reminders to pet owners about upcoming vaccinations, ensuring pets stay up-to-date with 
   their shots.
 
-                                                     Pros of the Product
+                    Pros of the Product
 
      1. Enhanced Pet Care:
 * Veterinarians can access complete medical histories, enabling better diagnosis and treatment.
